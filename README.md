@@ -26,3 +26,8 @@
 <a href="https://youtube.com/@lerdo01" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank" /></a>
 <a href="https://discordapp.com/users/699984529829658634" target="_blank"><img src="https://dcbadge.limes.pink/api/shield/699984529829658634?compact=true" target="_blank" /></a>
 </div>
+
+## Links
+
+- Portfolio: [Click here](https://lerdo.vercel.app/)
+- Mister Game(Bot): [Click here](https://discord.com/oauth2/authorize?client_id=1242524960270979183&permissions=0&scope=bot)
