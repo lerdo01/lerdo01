@@ -1,8 +1,8 @@
-## Olá! Sou conhecido por 'lerdo', e é um prazer vê-lo por aqui. 
-- ⚙️ Atualmente trabalho com back-end.
-- 📖 Estou aprendendo Flutter e Typescript.
+## Hello! I'm known as 'lerdo', and it's a pleasure to see you here. 
+- ⚙️ I currently work with back-end.
+- 📖 I'm learning Flutter and Typescript.
 
-[![Lerdo Plan](https://github-readme-stats.vercel.app/api?username=lerdo01&show_icons=true&theme=dracula&locale=pt-br)](https://github.com/lerdo01/github-readme-stats) [![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=lerdo01&layout=compact&theme=dracula&locale=pt-br&&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
+[![Lerdo Plan](https://github-readme-stats.vercel.app/api?username=lerdo01&show_icons=true&theme=dracula)](https://github.com/lerdo01/github-readme-stats) [![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=lerdo01&layout=compact&theme=dracula&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
 
 <div>
   
