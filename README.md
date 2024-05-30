@@ -1,6 +1,6 @@
 ## Hello! I'm known as 'lerdo', and it's a pleasure to see you here. 
 - ⚙️ I currently work with back-end.
-- 📖 I'm learning Flutter and Typescript.
+- 📖 I'm learning Typescript.
 
 [![Lerdo Plan](https://github-readme-stats.vercel.app/api?username=lerdo01&show_icons=true&theme=dracula)](https://github.com/lerdo01/github-readme-stats) [![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=lerdo01&layout=compact&theme=dracula&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -13,8 +13,6 @@
  <img style="width: 30px; height: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
         
  <img style="width: 30px; height: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
- 
-<img style="width: 30px; height: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
           
 </div>
 
