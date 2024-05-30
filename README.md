@@ -29,5 +29,5 @@
 
 ## Links
 
-- Portfolio: [Click here](https://lerdo.vercel.app/)
-- Mister Game(Bot): [Click here](https://discord.com/oauth2/authorize?client_id=1242524960270979183&permissions=0&scope=bot)
+- Portfolio: Coming Soon
+- Mister Game(Bot): Coming Soon
